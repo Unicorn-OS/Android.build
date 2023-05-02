@@ -1,5 +1,5 @@
-# AOSP.build
-Building Android Open Source Project from source!
+# Android Open Source Project.build
+Building Android from source!
 
 - sch: https://www.google.com/search?q=how+to+build+aosp
 
